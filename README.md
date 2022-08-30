@@ -8,7 +8,7 @@ Madrid, 30 de agosto de 2022
 
 ## Objetivo
 
-EEl objetivo del presente estudio es realizar un modelo de predicción sobre el abandono de puestos de trabajo en la empresa IBM para poner en práctica algunos de los conceptos aprendidos durante el bootcamp de Data Science en The Bridge.
+El objetivo del presente estudio es realizar un modelo de predicción sobre el abandono de puestos de trabajo en la empresa IBM para poner en práctica algunos de los conceptos aprendidos durante el bootcamp de Data Science en The Bridge.
 
 ## Datos
 
